@@ -17,7 +17,8 @@ The [software](https://github.com/esa-prl/ExoMy_Software) is completly written i
 
 A web interface is available to control ExoMy from a smartphone, laptop or tablet.
 
-Head over to the [wiki](https://github.com/esa-prl/ExoMy/wiki) for detailed instructions on how to build it.
+Download the [files](https://github.com/esa-prl/ExoMy) and the [software](https://github.com/esa-prl/ExoMy_Software).
+Then head over to the [wiki](https://github.com/esa-prl/ExoMy/wiki) for detailed instructions on how to build it.
 
 ## Contact us
 ExoMy was developed at the [Planetary Robotics Laboratory](http://www.esa.int/Enabling_Support/Space_Engineering_Technology/Planetary_Robotics_Laboratory) by  Maximillian Ehrhardt, Miro Voellmy, Levin Gerdes and Shanker Ganesh Krishnamoorthy.
