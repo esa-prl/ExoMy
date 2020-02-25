@@ -1,6 +1,6 @@
 # ExoMy - The 3D Printed Rover
 
-<img src="https://github.com/esa-prl/ExoMy/wiki/beauty_shots/DSC05713.jpg.jpg" width="400">
+<img src="https://github.com/esa-prl/ExoMy/wiki/images/beauty_shots/edu_assembly/DSC05713.jpg" width="400">
 
 ExoMy is the 3D printed rover developed at the European Space Agency.
 
