@@ -10,6 +10,26 @@ It features six steerable wheels on a triple bogie suspension which mimics the l
 ## Watch it move!
 [![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://youtu.be/cfDAxUTxCXE)
 
+## Features
+#### Ease of use
+ExoMy can be controlled using a web interface for smartphones, tablet or laptops as well as a standard gamepad.
+The robust design allows kids to playfully experience the fascination of a planetary explorer. 
+<!-- TODO: Add a picture of the tablet GUI -->
+
+#### Locomotion
+ExoMy features a triple bogie configuration as found on ExoMars. The 6 steerable wheels allow ExoMy to crab, turn on the spot and drive a generic ackerman.
+
+<!-- TODO: Add GIF of Locomotion Modes -->
+
+#### Sensing
+A Raspberry Pi camera integrated in the head allows teleoperation and the implementation of computer vision algorithms.
+
+#### Customizability
+The hat and mouth can be easily exchanged and customized. This allows you to make your very own ExoMy a complete one off. Advanced customizations are also no problem as all hardware and software files are open source.
+<!-- TODO: Add GIF of Hats -->
+<!-- TODO: Add GIF of Mouth -->
+
+
 ## Build it yourself!
 ExoMy uses off the shelve components and 3D printed parts. Everyone with access to a 3D printer and basic tools can build ExoMy. This initial version costs around 500€ to build. It is however possible to change certain parts (camera, raspberry pi, servos) for more afforable parts to lower the total cost to around 200 €.
 

@@ -1,0 +1,6 @@
+Video to Gif
+
+ffmpeg -t 20 -i exomy.mp4 -vf "fps=10,scale=320:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 exomy.gif
+
+Images to Video
+ffmpeg -framerate 24 -start_number 0020089 -i G%07d.JPG -vframes 3695 ../timelapse.mp4
