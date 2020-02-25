@@ -1,6 +1,6 @@
 # ExoMy - The 3D Printed Rover
 
-<img src="https://github.com/esa-prl/ExoMy/wiki/images/ExoMy.jpg" width="400">
+<img src="https://github.com/esa-prl/ExoMy/wiki/beauty_shots/DSC05713.jpg.jpg" width="400">
 
 ExoMy is the 3D printed rover developed at the European Space Agency.
 
@@ -8,7 +8,7 @@ The rover is inspired by [ExoMars](http://www.esa.int/Science_Exploration/Human_
 It features six steerable wheels on a triple bogie suspension which mimics the locomotion capabilities of ExoMars. A camera in the head furthermore allows teleoperation and for very enthusiastic people even computer vision.
 
 ## Watch it move!
-[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/images/exomy.gif)](https://youtu.be/cfDAxUTxCXE)
+[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://youtu.be/cfDAxUTxCXE)
 
 ## Build it yourself!
 ExoMy uses off the shelve components and 3D printed parts. Everyone with access to a 3D printer and basic tools can build ExoMy. This initial version costs around 500€ to build. It is however possible to change certain parts (camera, raspberry pi, servos) for more afforable parts to lower the total cost to around 200 €.
