@@ -8,7 +8,7 @@ The rover is inspired by [ExoMars](http://www.esa.int/Science_Exploration/Human_
 It features six steerable wheels on a triple bogie suspension which mimics the locomotion capabilities of ExoMars. A camera in the head furthermore allows teleoperation and for very enthusiastic people even computer vision.
 
 ## Watch it move!
-[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/drive.gif)](https://youtu.be/cfDAxUTxCXE)
+[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/drive.gif)](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/drive.gif)
 
 ## Features
 #### Ease of use
@@ -19,7 +19,7 @@ The robust design allows kids to playfully experience the fascination of a plane
 #### Locomotion
 ExoMy features a triple bogie configuration as found on ExoMars. The 6 steerable wheels allow ExoMy to crab, turn on the spot and drive a generic ackerman.
 
-[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)
+[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://youtu.be/cfDAxUTxCXE)
 
 <!-- TODO: Add GIF of Locomotion Modes -->
 
