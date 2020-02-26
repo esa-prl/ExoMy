@@ -8,7 +8,7 @@ The rover is inspired by [ExoMars](http://www.esa.int/Science_Exploration/Human_
 It features six steerable wheels on a triple bogie suspension which mimics the locomotion capabilities of ExoMars. A camera in the head furthermore allows teleoperation and for very enthusiastic people even computer vision.
 
 ## Watch it move!
-[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://youtu.be/cfDAxUTxCXE)
+[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/drive.gif)](https://youtu.be/cfDAxUTxCXE)
 
 ## Features
 #### Ease of use
@@ -18,6 +18,7 @@ The robust design allows kids to playfully experience the fascination of a plane
 
 #### Locomotion
 ExoMy features a triple bogie configuration as found on ExoMars. The 6 steerable wheels allow ExoMy to crab, turn on the spot and drive a generic ackerman.
+[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)
 
 <!-- TODO: Add GIF of Locomotion Modes -->
 
@@ -28,6 +29,7 @@ A Raspberry Pi camera integrated in the head allows teleoperation and the implem
 The hat and mouth can be easily exchanged and customized. This allows you to make your very own ExoMy a complete one off. Advanced customizations are also no problem as all hardware and software files are open source.
 <!-- TODO: Add GIF of Hats -->
 <!-- TODO: Add GIF of Mouth -->
+[![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/hats.gif)](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/hats.gif)
 
 
 ## Build it yourself!
