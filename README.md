@@ -18,6 +18,7 @@ The robust design allows kids to playfully experience the fascination of a plane
 
 #### Locomotion
 ExoMy features a triple bogie configuration as found on ExoMars. The 6 steerable wheels allow ExoMy to crab, turn on the spot and drive a generic ackerman.
+
 [![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/rock_climbing.gif)
 
 <!-- TODO: Add GIF of Locomotion Modes -->
