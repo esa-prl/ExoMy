@@ -30,6 +30,7 @@ A Raspberry Pi camera integrated in the head allows teleoperation and the implem
 The hat and mouth can be easily exchanged and customized. This allows you to make your very own ExoMy a complete one off. Advanced customizations are also no problem as all hardware and software files are open source.
 <!-- TODO: Add GIF of Hats -->
 <!-- TODO: Add GIF of Mouth -->
+
 [![ExoMy Demo](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/hats.gif)](https://raw.githubusercontent.com/wiki/esa-prl/ExoMy/gifs/hats.gif)
 
 
