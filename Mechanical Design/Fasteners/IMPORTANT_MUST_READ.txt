@@ -1,0 +1,27 @@
+README by Miro Voellmy 10.02.2020
+
+Use this folder as a collection for commonly used screws.
+
+!!!DO NOT RENAME SCREWS OR FOLDERS!!!
+!!!Otherwise assemblies, that use the screws will brake!!!
+
+How to add screws:
+1.
+Go to link specified in folder (Socket, Button, etc):
+
+OR
+Find a new screw type from:
+https://de.misumi-ec.com/
+
+OR
+Model it yourself
+
+(1.5)
+Create new folder for screw type and document link, as done in the other folders.
+
+2.
+Find fitting screw.
+Screws manufactured by MISUMI are preferred. The resulting CAD file can be generated and will be much smaller as it contains a parasolid instead of all the SolidWorks features.
+
+3.
+Download CAD (with account) and put the single *.SLDPRT file into the fitting location.
