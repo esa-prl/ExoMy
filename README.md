@@ -1,7 +1,7 @@
 # ExoMy - Documentation Repository
 This repository contains all the files of the documentation of ExoMy. Just click on [*Releases*](https://github.com/esa-prl/ExoMy/releases) and download the files of the latest release. They are explained further in the [wiki](https://github.com/esa-prl/ExoMy/wiki).
 
-[[https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG]]
+![ExoMy image](https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG)
 
 # ExoMy Project Structure
 Overview of other parts of the ExoMy project.
