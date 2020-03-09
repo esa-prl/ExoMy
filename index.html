@@ -31,7 +31,7 @@
   <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <img src="img/esa_logo.png" width="200" class="d-inline-block align-top" alt="">
+        <img src="img/esa_logo.png" width="200vh" class="d-inline-block align-top" alt="">
       </a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
@@ -39,9 +39,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#about">About</a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#model">3D Model</a>
           </li>
@@ -62,13 +62,13 @@
       <div class="mx-auto text-center">
         <h1 class="mx-auto my-0 text-uppercase">ExoMy</h1>
         <h2 class="text-white-50 mx-auto mt-2 mb-5">The 3D printed rover developed by the European Space Agency</h2>
-        <!-- <a href="#about" class="btn btn-primary js-scroll-trigger">Get Started</a> -->
+        <button  onclick=" window.open('https://github.com/esa-prl/ExoMy/wiki')" class="btn btn-primary">Start Building Now!</button >
       </div>
     </div>
   </header>
 
   <!-- About Section -->
-  <section id="about" class="about-section text-center">
+  <!-- <section id="about" class="about-section text-center">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
@@ -77,12 +77,16 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- Model Section -->
   <section id="model" class="model-section bg-black">
       <div class="container-fluid d-flex justify-content-center" >
-        <model-viewer src="3d_models/ExoMy.glb" alt="A 3D model of an astronaut" auto-rotate camera-controls stage-light-intensity="1" shadow-intensity="3" exposure="0.1"></model-viewer>
+        <model-viewer src="3d_models/ExoMy.glb" alt="A 3D model of an astronaut" 
+        auto-rotate camera-controls stage-light-intensity="1" 
+        shadow-intensity="3" exposure="0.1"
+        
+        ></model-viewer>
       </div>
   </section>
 
@@ -212,11 +216,11 @@
   </section>
 
   <!-- Footer -->
-  <footer class="bg-black small text-center text-white-50">
+  <!-- <footer class="bg-black small text-center text-white-50">
     <div class="container">
       Copyright &copy; Your Website 2019
     </div>
-  </footer>
+  </footer> -->
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
