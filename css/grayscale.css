@@ -24,6 +24,7 @@
   color: #161616;
   font-weight: 700;
   padding: .9rem 0;
+  height: 100px;
 }
 
 #mainNav .navbar-nav .nav-item:hover {
@@ -95,6 +96,7 @@
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  margin-top: 10rem;
 }
 
 .masthead h1 {
@@ -112,6 +114,7 @@
   font-size: 1rem;
 }
 
+
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 4rem;
@@ -121,6 +124,7 @@
 
 @media (min-width: 992px) {
   .masthead {
+    margin-top: 0rem;
     height: 100vh;
     padding: 0;
   }
@@ -177,8 +181,8 @@
 }
 
 .model-section model-viewer{
-  width: 50%;
-  height: 80vh;
+  width: 80%;
+  height: 60vh;
 }
 .features-section .featured-text {
   padding: 2rem;
