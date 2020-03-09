@@ -162,6 +162,7 @@
   background-color: #467370 !important;
 }
 
+
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
@@ -172,7 +173,7 @@
 }
 
 .features-section {
-  padding: 10rem 0;
+  padding: 0rem 0;
 }
 
 .model-section model-viewer{
