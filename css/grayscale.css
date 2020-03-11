@@ -23,7 +23,7 @@
 #mainNav .navbar-brand {
   color: #161616;
   font-weight: 700;
-  padding: .9rem 0;
+  padding: 0rem 0;
   height: 100px;
 }
 
@@ -38,6 +38,11 @@
   background-color: transparent;
 }
 
+#logo {
+  vertical-align: middle;
+  max-height: 100%;
+}
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 0;
@@ -47,7 +52,7 @@
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
-    padding: .5rem 0;
+    padding: 0rem 0;
     color: rgba(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
@@ -96,7 +101,7 @@
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
-  margin-top: 10rem;
+  margin-top: 100px
 }
 
 .masthead h1 {
