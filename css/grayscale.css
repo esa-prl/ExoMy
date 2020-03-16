@@ -173,7 +173,7 @@
 
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   /* background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%); */
 }
 
@@ -181,8 +181,12 @@
   margin-bottom: 5rem;
 }
 
+.specifications-section {
+  padding: 10rem 0;
+}
+
 .features-section {
-  padding: 0rem 0;
+  padding: 5rem 0;
 }
 
 .model-section model-viewer{
