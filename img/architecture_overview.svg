@@ -228,6 +228,70 @@
        r="2006.6836"
        gradientTransform="matrix(2.4433798,0,0,0.75327289,28.65951,47.723607)"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4296">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4298" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4300" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4302" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset4304" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4306" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4308">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4310" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4312" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4314" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset4316" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4318" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -236,9 +300,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04375"
-     inkscape:cx="7750.1487"
-     inkscape:cy="1378.5944"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="4879.0487"
+     inkscape:cy="246.39745"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -500,7 +564,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#656565;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4308)"
        x="-1998.738"
        y="469.55505"
        id="text180"><tspan
@@ -508,10 +572,10 @@
          id="tspan178"
          x="-1998.738"
          y="469.55505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77778168px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332">Raspberry Pi</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77778168px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332;fill:#322828;fill-opacity:1">Raspberry Pi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#656565;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4296)"
        x="-1219.24"
        y="469.55505"
        id="text184"><tspan
@@ -519,7 +583,7 @@
          id="tspan182"
          x="-1219.24"
          y="469.55505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77777863px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332">Raspbian</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77777863px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332;fill:#322828;fill-opacity:1">Raspbian</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963);"
