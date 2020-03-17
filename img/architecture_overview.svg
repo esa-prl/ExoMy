@@ -10,15 +10,27 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4013.3672mm"
-   height="713.78632mm"
-   viewBox="0 0 4013.3672 713.78632"
+   width="7312.2837mm"
+   height="1169.9264mm"
+   viewBox="0 0 7312.2837 1169.9264"
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="architecture_overview.svg">
+   sodipodi:docname="architecture_overview2.svg">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5268">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5270" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop5272" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4286"
        inkscape:collect="always">
@@ -29,19 +41,7 @@
       <stop
          id="stop4290"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4270">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0"
-         id="stop4272" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4274" />
+         style="stop-color:#000000;stop-opacity:1" />
     </linearGradient>
     <clipPath
        id="clip1">
@@ -110,126 +110,30 @@
          result="composite2"
          id="feComposite3961" />
     </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter3963-8">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood3953-7" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite3955-7" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur3957-1" />
-      <feOffset
-         dx="6"
-         dy="6"
-         result="offset"
-         id="feOffset3959-4" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite3961-5" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter3963-1">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood3953-71" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite3955-5" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur3957-3" />
-      <feOffset
-         dx="6"
-         dy="6"
-         result="offset"
-         id="feOffset3959-1" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite3961-57" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter3963-5">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood3953-0" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite3955-9" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur3957-2" />
-      <feOffset
-         dx="6"
-         dy="6"
-         result="offset"
-         id="feOffset3959-8" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite3961-6" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4286"
+       xlink:href="#linearGradient5268"
        id="radialGradient4276"
        cx="-19.855835"
        cy="193.4267"
        fx="-19.855835"
        fy="193.4267"
        r="2006.6836"
-       gradientTransform="matrix(2.4433798,0,0,0.75327289,28.65951,47.723607)"
+       gradientTransform="matrix(1.8245554,-0.00855654,0,0.29129108,30.056432,132.35192)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4270"
+       xlink:href="#linearGradient4286"
        id="radialGradient4284"
        cx="-19.855835"
        cy="193.4267"
        fx="-19.855835"
        fy="193.4267"
        r="2006.6836"
-       gradientTransform="matrix(2.4433798,0,0,0.75327289,28.65951,47.723607)"
+       gradientTransform="matrix(1.8245554,-0.00855654,0,0.29129108,30.056432,132.35192)"
        gradientUnits="userSpaceOnUse" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter4296">
       <feFlood
@@ -261,7 +165,7 @@
          id="feComposite4306" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter4308">
       <feFlood
@@ -292,6 +196,102 @@
          result="composite2"
          id="feComposite4318" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3963-83">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3953-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3955-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur3957-5" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset3959-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3961-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3963-89">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3953-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3955-54" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur3957-9" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset3959-0" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3961-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3963-18">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3953-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3955-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur3957-56" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset3959-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3961-69" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -300,9 +300,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="4879.0487"
-     inkscape:cy="246.39745"
+     inkscape:zoom="0.043750001"
+     inkscape:cx="12062.945"
+     inkscape:cy="3038.7993"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -331,14 +331,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2026.5394,163.46648)">
+     transform="translate(3662.3135,396.09786)">
     <rect
-       style="opacity:1;fill:url(#radialGradient4284);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4276);stroke-width:0.97366667;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:url(#radialGradient4284);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4276);stroke-width:1.68253505;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4252"
-       width="4012.3936"
-       height="712.81268"
-       x="-2026.0526"
-       y="-162.97964" />
+       width="7310.6016"
+       height="1168.2439"
+       x="-3661.4724"
+       y="-395.25659" />
     <g
        id="g27"
        transform="matrix(1.535635,0,0,1.535635,-1871.6212,-140.20624)">
@@ -564,7 +564,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#656565;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4308)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4308)"
        x="-1998.738"
        y="469.55505"
        id="text180"><tspan
@@ -572,10 +572,10 @@
          id="tspan178"
          x="-1998.738"
          y="469.55505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77778168px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332;fill:#322828;fill-opacity:1">Raspberry Pi</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77777863px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#000000;fill-opacity:1;stroke-width:0.26458332">Raspberry Pi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#656565;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4296)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4296)"
        x="-1219.24"
        y="469.55505"
        id="text184"><tspan
@@ -583,10 +583,10 @@
          id="tspan182"
          x="-1219.24"
          y="469.55505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77777863px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332;fill:#322828;fill-opacity:1">Raspbian</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.77777863px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#000000;fill-opacity:1;stroke-width:0.26458332">Raspbian</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#030000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963)"
        x="-1355.5732"
        y="253.11241"
        id="text3903"><tspan
@@ -594,39 +594,39 @@
          id="tspan3901"
          x="-1355.5732"
          y="253.11241"
-         style="font-size:211.66667175px;stroke-width:0.26458332;-inkscape-font-specification:'Arial Black, ';font-family:'Arial Black';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">+</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';opacity:0.8;fill:#030000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963-8);"
-       x="-777.93384"
-       y="253.11241"
-       id="text3903-4"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#030000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963-83)"
+       x="-802.66016"
+       y="251.93147"
+       id="text3903-8"><tspan
          sodipodi:role="line"
-         id="tspan3901-7"
-         x="-777.93384"
-         y="253.11241"
-         style="font-size:211.66667175px;stroke-width:0.26458332;-inkscape-font-specification:'Arial Black, ';font-family:'Arial Black';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">+</tspan></text>
+         id="tspan3901-3"
+         x="-802.66016"
+         y="251.93147"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';opacity:0.8;fill:#030000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963-1)"
-       x="132.28653"
-       y="253.11241"
-       id="text3903-2"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#030000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963-89)"
+       x="123.02878"
+       y="261.60767"
+       id="text3903-41"><tspan
          sodipodi:role="line"
-         id="tspan3901-2"
-         x="132.28653"
-         y="253.11241"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332">+</tspan></text>
+         id="tspan3901-1"
+         x="123.02878"
+         y="261.60767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';opacity:0.8;fill:#030000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963-5)"
-       x="1152.842"
-       y="253.11241"
-       id="text3903-42"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#030000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter3963-18)"
+       x="1145.4796"
+       y="248.70605"
+       id="text3903-0"><tspan
          sodipodi:role="line"
-         id="tspan3901-0"
-         x="1152.842"
-         y="253.11241"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.26458332">+</tspan></text>
+         id="tspan3901-9"
+         x="1145.4796"
+         y="248.70605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';opacity:0.8;fill:#030000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
   </g>
 </svg>

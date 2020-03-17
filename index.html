@@ -101,12 +101,20 @@
         <h2 class="text-white mb-4">3D Model</h2>
       </div>
     </div>
-    <div class="container-fluid d-flex justify-content-center" >
-      <model-viewer src="3d_models/ExoMy.glb" alt="A 3D model of an astronaut" 
-      auto-rotate camera-controls stage-light-intensity="1" preload 
-      shadow-intensity="3" exposure="0.1"
-      
-      ></model-viewer>
+    <div class="container-fluid" >
+      <div class="row">
+        <div class="col-sm-10">
+          <model-viewer src="3d_models/ExoMy.glb" alt="A 3D model of an astronaut" 
+            auto-rotate camera-controls stage-light-intensity="1" preload 
+            shadow-intensity="3" exposure="0.1">
+            <h1 class="text-white">Zoom and Rotate</h1>
+          </model-viewer>
+        </div>
+        <div id="scrollbar" class="col-sm-2 text-center">
+          <h1 class="bg-gradient-warning text-white">Scroll here!</h1>
+          <i class="fa fa-4x fa-arrow-down text-white mb-4"></i>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -218,7 +226,7 @@
   </section>
 
   <!-- Contact Section -->
-  <section id="contact" class="contact-section bg-black">
+  <section id="contact" class="contact-section bg-black pb-5">
     <div class="container">
 
       <div class="row">
