@@ -196,8 +196,7 @@
 }
 
 #scrollbar{
-/* background: linear-gradient(to right, rgba(22, 22, 22, 0.9) 0%, rgba(94, 94, 94, 0.5) 50%,rgba(22, 22, 22, 0.9) 100%); */
-  background: radial-gradient(rgba(94, 94, 94, 0.5),#161616  );
+  background: #161616;
 }
 
 .features-section .featured-text {
