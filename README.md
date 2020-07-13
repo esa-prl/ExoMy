@@ -18,3 +18,11 @@ There is a website about ExoMy. It does not help you build it, but is still nice
 This repository contains the software to run Exomy. The [wiki](https://github.com/esa-prl/ExoMy/wiki) explains you how to use it.
 
 ![ExoMy image](https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG)
+
+### Acknowledgements
+
+ExoMy was developed in the Planetary Robotics Laboratory of the European Space Agency.
+
+The current team developing and maintaining ExoMy consists of Maximilian Ehrhardt, Miro Voellmy and Lorenzo Cervantes.
+
+We thank Shanker Ganesh Krishanmoorthy and Levin Gerdes for the development of the initial prototype, David Honess and Elsa María Sánchez for participating in the documented assembly, Tim Wiese and Mattia Haas for their inputs and contributions to the mechanical design, and finally Martin Azkarate, Martin Zwick and Gianfranco Visentin for enabling and continuously supporting the project.
