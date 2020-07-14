@@ -17,6 +17,24 @@ There is a website about ExoMy. It does not help you build it, but is still nice
 ### [Software Repository](https://github.com/esa-prl/ExoMy_Software)
 This repository contains the software to run Exomy. The [wiki](https://github.com/esa-prl/ExoMy/wiki) explains you how to use it.
 
+### Social Media
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
+
+<!-- Add font awesome icons -->
+<p>
+    <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/discord-brands.svg" width="20px">
+    <a href="https://discord.gg/Nd5aQ3"> Join the Community!</a>  
+</p>
+<p>
+    <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/twitter-square-brands.svg" width="20px">
+    <a href="https://twitter.com/exomy_rover"> @ExoMy_Rover</a> 
+</p>
+<p>
+    <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/instagram-square-brands.svg" width="20px">
+    <a href="https://www.instagram.com/exomy_rover/"> @ExoMy_Rover</a>
+</p>
+
 ![ExoMy image](https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG)
 
 ### Acknowledgements
