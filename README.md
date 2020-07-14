@@ -24,7 +24,7 @@ This repository contains the software to run Exomy. The [wiki](https://github.co
 <!-- Add font awesome icons -->
 <p>
     <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/discord-brands.svg" width="20px">
-    <a href="https://discord.gg/Nd5aQ3"> Join the Community!</a>  
+    <a href="https://discord.gg/gZk62gg"> Join the Community!</a>  
 </p>
 <p>
     <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/twitter-square-brands.svg" width="20px">
