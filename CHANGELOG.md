@@ -1,6 +1,6 @@
 # Changelog
 
-## [v1.0.1] - 2020-07-16
+## [v1.0.2] - 2020-07-16
 - add "Optional Parts" containing various add-ons.
 	- Flexi fill indoors tires
 	- Bowtie
