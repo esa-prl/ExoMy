@@ -104,10 +104,34 @@
     <div class="container-fluid" >
       <div class="row">
         <div class="col-sm-10">
-          <model-viewer src="3d_models/ExoMy.glb" alt="A 3D model of an astronaut" 
+          <style>
+            :not(:defined) > :not(.poster) {
+              display: none;
+            }
+            model-viewer#reveal {
+              display: block;
+              --poster-color: transparent;
+            }
+            .poster {
+              display: flex;
+              justify-content: center;
+              align-items: center; 
+              height: 100%;
+              top: 0;
+              left: 0;
+              background-size: contain;
+              background-repeat: no-repeat;
+              background-position: center;
+            }
+          </style>
+          <model-viewer id="reveal" src="3d_models/ExoMy.glb" alt="A 3D model of an astronaut"
             auto-rotate camera-controls stage-light-intensity="1" preload 
-            shadow-intensity="3" exposure="0.1">
-            <h2 class="text-white">Zoom and Rotate</h2>
+            shadow-intensity="3" exposure="0.1"
+            camera-orbit="0deg 90deg 1m" field-of-view="45deg"
+            >
+            <div class="poster" slot="poster" style="background-image: url(img/poster.png);"></div>
+
+            <!-- <h2 class="text-white">Zoom and Rotate</h2> -->
           </model-viewer>
         </div>
         <div id="scrollbar" class="col-sm-2 text-center">
