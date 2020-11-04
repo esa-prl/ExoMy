@@ -10,6 +10,11 @@
   height: 100px;
 }
 
+#mainNav .navbar-nav{
+  background-color: #16161657;
+  border: #ffffe1;
+}
+
 #mainNav .navbar-toggler {
   font-size: 70%;
   padding: 0.75rem;
@@ -38,6 +43,9 @@
   outline: none;
   background-color: transparent;
 }
+#mainNav .nav-link {
+  color: #ffffe1;
+}
 
 #logo {
   vertical-align: top;
@@ -50,6 +58,9 @@
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
+  }
+  #mainNav .navbar-nav{
+    background-color: transparent;
   }
   #mainNav .navbar-brand {
     padding: 0rem 0;
