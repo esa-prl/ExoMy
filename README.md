@@ -59,4 +59,6 @@ ExoMy was developed in the Planetary Robotics Laboratory of the European Space A
 
 The current team developing and maintaining ExoMy consists of Maximilian Ehrhardt, Miro Voellmy and Lorenzo Cervantes.
 
+![ExoMy Generations](https://github.com/esa-prl/ExoMy/wiki/images/beauty_shots/edu_assembly/DSC05720.jpg)
+
 We thank Shanker Ganesh Krishanmoorthy and Levin Gerdes for the development of the initial prototype, David Honess and Elsa María Sánchez for participating in the documented assembly, Tim Wiese and Mattia Haas for their inputs and contributions to the mechanical design, and finally Martin Azkarate, Martin Zwick and Gianfranco Visentin for enabling and continuously supporting the project.
