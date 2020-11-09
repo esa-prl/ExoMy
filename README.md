@@ -17,6 +17,7 @@ There is a website about ExoMy. It does not help you build it, but is still nice
 ### [Software Repository](https://github.com/esa-prl/ExoMy_Software)
 This repository contains the software to run Exomy. The [wiki](https://github.com/esa-prl/ExoMy/wiki) explains you how to use it.
 
+
 ### Social Media
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
@@ -36,6 +37,21 @@ This repository contains the software to run Exomy. The [wiki](https://github.co
 </p>
 
 ![ExoMy image](https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG)
+
+### Publications
+
+If you use this work in an academic context, please cite the following publication:
+
+* M. Voellmy and M. Ehrhardt: **ExoMy: A Low Cost 3D Printed Rover**. International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS), 2020. ([PDF](https://www.researchgate.net/publication/344874558_ExoMy_A_Low_Cost_3D_Printed_Rover))
+
+        @inproceedings{inproceedings,
+        author = {Voellmy, Miro and Ehrhardt, Maximilian},
+        year = {2020},
+        month = {10},
+        pages = {},
+        title = {ExoMy: A Low Cost 3D Printed Rover}
+        }
+
 
 ### Acknowledgements
 
