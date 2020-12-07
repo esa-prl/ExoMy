@@ -17,6 +17,7 @@ There is a website about ExoMy. It does not help you build it, but is still nice
 ### [Software Repository](https://github.com/esa-prl/ExoMy_Software)
 This repository contains the software to run Exomy. The [wiki](https://github.com/esa-prl/ExoMy/wiki) explains you how to use it.
 
+
 ### Social Media
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
@@ -37,10 +38,27 @@ This repository contains the software to run Exomy. The [wiki](https://github.co
 
 ![ExoMy image](https://github.com/esa-prl/ExoMy/wiki/images/renderings/2020_02_25.JPG)
 
+### Publications
+
+If you use this work in an academic context, please cite the following publication:
+
+* M. Voellmy and M. Ehrhardt: **ExoMy: A Low Cost 3D Printed Rover**. International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS), 2020. ([PDF](https://www.researchgate.net/publication/344874558_ExoMy_A_Low_Cost_3D_Printed_Rover))
+
+        @inproceedings{inproceedings,
+        author = {Voellmy, Miro and Ehrhardt, Maximilian},
+        year = {2020},
+        month = {10},
+        pages = {},
+        title = {ExoMy: A Low Cost 3D Printed Rover}
+        }
+
+
 ### Acknowledgements
 
 ExoMy was developed in the Planetary Robotics Laboratory of the European Space Agency.
 
 The current team developing and maintaining ExoMy consists of Maximilian Ehrhardt, Miro Voellmy and Lorenzo Cervantes.
+
+![ExoMy Generations](https://github.com/esa-prl/ExoMy/wiki/images/beauty_shots/edu_assembly/DSC05720.jpg)
 
 We thank Shanker Ganesh Krishanmoorthy and Levin Gerdes for the development of the initial prototype, David Honess and Elsa María Sánchez for participating in the documented assembly, Tim Wiese and Mattia Haas for their inputs and contributions to the mechanical design, and finally Martin Azkarate, Martin Zwick and Gianfranco Visentin for enabling and continuously supporting the project.
