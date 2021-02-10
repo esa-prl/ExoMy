@@ -1,5 +1,7 @@
 # ExoMy - Documentation Repository
-This repository contains all the files of the documentation of ExoMy. Click on [*Releases*](https://github.com/esa-prl/ExoMy/releases) and download the files of the latest release. They are explained further in the [wiki](https://github.com/esa-prl/ExoMy/wiki).
+This repository contains all the files of the documentation of ExoMy. Click on [*Releases*](https://github.com/esa-prl/ExoMy/releases) and download the files of the latest release.
+The release file contains the 3D files (STL, SLDPRT & STEP), circuit diagrams, part lists, etc. to build your own ExoMy.
+The building process and the files are explained further in the [wiki](https://github.com/esa-prl/ExoMy/wiki).
 
 
 # ExoMy Project Structure
